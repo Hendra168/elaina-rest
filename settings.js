@@ -4,7 +4,7 @@ global.creator = 'Hendra'// yourname
 global.MONGO_DB_URI = "mongodb+srv://elaina:<password>@cluster0.r7jvaqb.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "hendramantapman@gmail.com" //email
-global.email_password = "iijx nlxn fvan nruy" //application password email
+global.email_password = "iijxnlxnfvannruy" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
